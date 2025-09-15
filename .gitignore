@@ -1,0 +1,6 @@
+# cache files
+*cache*
+# log files
+*.log
+# misc
+.DS_Store
